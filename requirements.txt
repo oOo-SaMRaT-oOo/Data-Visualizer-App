@@ -5,3 +5,7 @@ sympy
 matplotlib
 pandas
 openpyxl
+scipy.interpolate
+sklearn.preprocessing
+
+
