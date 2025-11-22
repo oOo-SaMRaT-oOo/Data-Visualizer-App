@@ -5,7 +5,8 @@ sympy
 matplotlib
 pandas
 openpyxl
-sklearn
+scikit-learn
+
 
 
 
